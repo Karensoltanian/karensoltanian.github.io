@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.karensol.hexorb",
+        "sha256_cert_fingerprints": ["C5:A8:E1:C0:5B:88:85:FC:4F:BE:7C:BF:FD:35:02:DD:A0:51:3B:2B:0F:7D:CB:77:D1:FC:8E:6B:35:51:87:DF"]
+      }
+    }]
